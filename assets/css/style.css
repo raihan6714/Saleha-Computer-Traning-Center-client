@@ -1088,7 +1088,7 @@ width: 100%;
 }
 
 .apps-download h3 {
-  padding-top: 65px;
+  /* padding-top: 65px; */
   color: #5358b2;
   font-family: "Poppins", sans-serif;
   font-weight: 700;
