@@ -661,8 +661,21 @@ padding: 50px 0 15px 0;
 .portal img {
 margin-bottom: 37px;
 }
-/*====================bekash part======================*/
-/*====================bekash part======================*/
+/*====================card part======================*/
+.cardHeader {
+  text-align: center;
+}
+.cardHeader p {
+  margin-bottom: 0;
+  font-family: "Open Sans", sans-serif !important;
+  font-weight: 400;
+}
+.cardHeader h3 {
+  font-family: "Open Sans", sans-serif !important;
+  font-weight: 400;
+  margin-bottom: 20px;
+}
+/*====================card part======================*/
 
 /*=============Know Part===============*/
 #knowSection {
@@ -1154,7 +1167,7 @@ width: 100%;
   z-index: 999;
 }
 .ourScool {
-  background: #ff4f01 0% 0% no-repeat padding-box;
+  background: #122f4a;
   border-radius: 5px;
   height: 205px;
   padding: 24px 0px 0px 59px;
